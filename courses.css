@@ -1,0 +1,19 @@
+.coursesDetailMainCard{
+    display: flex; 
+    flex-direction: column;  
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.selectBG{
+    background: linear-gradient(to right, #5200f3, #ec02f3) !important; 
+}
+.SelectButton{
+    padding: 8px 20px; 
+    background: linear-gradient(to right top, #ec02f3, #5200f3); 
+    color: white; 
+    border-radius: 5px; 
+    border: none;
+}

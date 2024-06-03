@@ -1,0 +1,92 @@
+.resumeDetailMainCard{
+    display: flex; 
+    flex-direction: column;  
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.obj-goal-div{
+    display: flex; 
+    flex-direction: row; 
+    width: 100%; 
+    gap: 80px; 
+    margin-bottom: 50px !important; 
+    align-items: center; 
+    justify-content: center;
+}
+.obj-main-div{
+    display: flex; 
+    flex-direction: column; 
+    color: white;
+    width: 30%;
+}
+.obj-h3{
+    margin: 20px 0px !important; 
+    width: fit-content;
+}
+.experienceMainDiv{
+    display: flex; 
+    flex-direction: column; 
+    color: white; 
+    margin: 0px 150px; 
+    margin-bottom: 50px !important;
+}
+.exp-h3{
+    margin: 20px 0px !important;
+}
+.exp-inner-div{
+    display: flex; 
+    flex-direction: row; 
+    gap: 50px;
+}
+.exp-image{
+    width: 300px; 
+    height: 170px;
+    border-radius: 5px;
+}
+.exp-text-div{
+    display: flex; 
+    flex-direction: column; 
+    gap: 10px; 
+    justify-content: center;
+}
+.exp-desc{
+    text-align: justify; 
+    width: 50%; 
+    font-size: 14px;
+}
+.skill-main-dev{
+    display: flex; 
+    flex-direction: column; 
+    color: white; 
+    margin: 0px 150px; 
+    margin-bottom: 50px !important;
+}
+.skill-h2{
+    margin: 20px 0px !important; 
+    width: 100%; 
+    text-align: center; 
+    color: white;
+}
+.skill-img-main-div{
+    display: flex; 
+    flex-direction: row; 
+    gap: 50px; 
+    align-items: center; 
+    justify-content: center;
+}
+.skill-images{
+    width: 100px; 
+    height: 100px; 
+    border-radius: 5px; 
+    filter: brightness(90%);
+}
+.edu-main-div{
+    display: flex; 
+    flex-direction: column; 
+    color: white; 
+    margin-left: 0px !important; 
+    margin-bottom: 50px !important;
+}

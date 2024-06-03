@@ -1,0 +1,38 @@
+.personalMainCard{
+    display: flex; 
+    flex-direction: row;  
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.personalInnerCards{
+    background-color: #3f3945; 
+    width: 120px; 
+    height: 150px; 
+    border-radius: 10px; 
+    display: flex; 
+    flex-direction: column; 
+    padding: 10px 40px; 
+    align-items: center;
+}
+.personalHeading{
+    background: linear-gradient(to right top, #eb02f38a, #5100f38a) ; 
+    padding: 4px 20px; 
+    color: white; 
+    width: 120px; 
+    border-radius: 5px; 
+    align-items: center; 
+    justify-content: center; 
+    display: flex;
+}
+.personalUL{
+    color: white; 
+    display: flex; 
+    gap: 10px; 
+    flex-direction: column; 
+    width: 100%; 
+    padding-left: 15px !important;
+    font-size: 13px;
+}
